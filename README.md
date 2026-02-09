@@ -1,4 +1,14 @@
 # ejercicio_en_clase_1
+
+## Integrantes
+- Anthony Fajardo  
+- Gabriela Coloma  
+- Mateo Vivanco  
+- Sebastian Encalada  
+- Luis Eduardo Zaldumbide  
+
+---
+
 ## Contexto
 Este proyecto utiliza el dataset **TPCH_SF1000** disponible en Snowflake.  
 Se asume que los datos fuente ya se encuentran **limpios y curados (Silver Layer)**, por lo que el alcance del trabajo se centra exclusivamente en el **diseño e implementación de la capa GOLD**, orientada a análisis analítico y de negocio.
